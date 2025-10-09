@@ -1,6 +1,8 @@
 # React Demo
 Basic Counter App to learn about how React manages state.
-
+## Prerequisites
+Before starting the program, you will need NodeJS, which will allow the project to run on your local server and use the dependencies it requires.
+Check out NODE.md to learn how to install NodeJS based on your device.
 ## Running app
 Clone the repository, travel to it, and install dependencies:
 
