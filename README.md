@@ -4,12 +4,13 @@ Basic Counter App to learn about how React manages state.
 Before starting the program, you will need NodeJS, which will allow the project to run on your local server and use the dependencies it requires.
 Check out [`NODE.md`](NODE.md) to learn how to install NodeJS based on your device.
 ## Running app
-Clone the repository, travel to it, and install dependencies:
+Clone the repository, travel to it, install dependencies, and open repo in your code editor:
 
 ```
  git clone https://github.com/hanzeduardodedios1/Intro-to-React-DEMO-.git
  cd Intro-to-React-DEMO-
  npm i
+ code . # For VS Code, unless you use another editor
 ```
 
 Then run `npm run dev` to boot up the development server.
